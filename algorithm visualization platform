@@ -1,0 +1,27 @@
+An algorithm visualization platform is a software tool or website that shows how an algorithm works step-by-step using graphics, animations, or diagrams. 
+It helps people understand algorithms more easily by seeing the process instead of only reading code.
+
+By, Simple Meaning
+👉 Algorithm visualization platform = a tool that visually demonstrates how algorithms work.
+For example, if you run a sorting algorithm (like Bubble Sort) on a visualization platform:
+        1. It shows numbers as bars or blocks
+        2. The bars move and swap positions
+        3.You can see each step of sorting visually
+        4.This helps students understand how the algorithm processes data.
+
+Key Features: 
+        1.Step-by-step animation of algorithms
+        2.Graphical representation (bars, nodes, graphs, etc.)
+        3.Control options like pause, play, speed control
+        4.Code + visualization together
+        5.Helps in learning data structures and algorithms
+
+Common Algorithms Visualized:
+        1.Sorting algorithms (Bubble Sort, Merge Sort)
+        2.Searching algorithms (Binary Search)
+        3.Graph algorithms (Dijkstra, BFS, DFS)
+Examples of Algorithm Visualization Platforms
+        1.VisuAlgo
+        2.AlgoViz
+        3.Algorithm Visualizer
+
